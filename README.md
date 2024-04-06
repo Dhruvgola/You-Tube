@@ -20,7 +20,7 @@ This is a frontend clone of the YouTube website built using HTML, CSS, and JavaS
 
 ## Demo
 
-[Link to live demo](#) - *Add the link to your live demo here.*
+[Link to live demo](#) - *https://venerable-cupcake-69b509.netlify.app*
 
 ![Screenshot](screenshot.png)
 
